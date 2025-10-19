@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Who is the CEO of Chesapeake Energy?",
+    "correct_answer": "Domenic “Nick” Dell’Osso",
+    "answers": [
+      "Domenic “Nick” Dell’Osso",
+      "Aubrey McClendon",
+      "Doug Lawler",
+      "Scott Sheffield"
+    ]
+  },
+  {
+    "question": "Who is the CEO of Chevron?",
+    "correct_answer": "Michael Wirth",
+    "answers": [
+      "Michael Wirth",
+      "John Watson",
+      "Rex Tillerson",
+      "Peter Voser"
+    ]
+  },
+  {
+    "question": "Which oil company has the highest oil production?",
+    "correct_answer": "Saudi Aramco",
+    "answers": [
+      "Saudi Aramco",
+      "ExxonMobil",
+      "Rosneft",
+      "PetroChina"
+    ]
+  },
+  {
+    "question": "Top 5 oil producing companies",
+    "correct_answer": "Saudi Aramco, ExxonMobil, Shell, BP, Chevron",
+    "answers": [
+      "Saudi Aramco, ExxonMobil, Shell, BP, Chevron",
+      "Saudi Aramco, Gazprom, NIOC, ExxonMobil, PetroChina",
+      "ExxonMobil, BP, Total, Chevron, ConocoPhillips",
+      "Saudi Aramco, Rosneft, CNPC, BP, Shell"
+    ]
+  },
+  {
+    "question": "List current total world oil reserves",
+    "correct_answer": "Around 1.5 trillion barrels (proven)",
+    "answers": [
+      "Around 1.5 trillion barrels (proven)",
+      "1.65 trillion barrels",
+      "1.3 trillion barrels",
+      "1.8 trillion barrels"
+    ]
+  },
+  {
+    "question": "Founder and CEO of Hilcorp",
+    "correct_answer": "Jeff Hildebrand",
+    "answers": [
+      "Jeff Hildebrand",
+      "Harold Hamm",
+      "Scott Sheffield",
+      "Mark Papa"
+    ]
+  },
+  {
+    "question": "What are 5 assumptions behind Darcy flow?",
+    "correct_answer": "Re < 1, Newtonian fluid, no-slip boundary, single-phase flow, no chemical interaction",
+    "answers": [
+      "Re < 1, Newtonian fluid, no-slip boundary, single-phase flow, no chemical interaction",
+      "Re < 10, non-Newtonian fluid, compressible flow, chemical interaction",
+      "Re < 1, Newtonian fluid, slip boundary, multiphase flow, reactive rock",
+      "Re < 100, laminar flow boundary, compressible, multiphase flow"
+    ]
+  },
+  {
+    "question": "What is the formula for effective porosity?",
+    "correct_answer": "Volume of interconnected pores / Total volume",
+    "answers": [
+      "Volume of interconnected pores / Total volume",
+      "Volume of pores / Bulk rock volume",
+      "Interconnected pore volume / Grain volume",
+      "Pore space / Total volume"
+    ]
+  },
+  {
+    "question": "Which country has the largest amount of natural gas reserves?",
+    "correct_answer": "Russia",
+    "answers": [
+      "Russia",
+      "Iran",
+      "Qatar",
+      "United States"
+    ]
+  },
+  {
+    "question": "Top 5 oil producing countries",
+    "correct_answer": "United States, Saudi Arabia, Russia, China, Iraq",
+    "answers": [
+      "United States, Saudi Arabia, Russia, China, Iraq",
+      "Saudi Arabia, Russia, United States, Canada, Iraq",
+      "Russia, Saudi, US, Iran, China",
+      "Saudi Arabia, Russia, US, Iran, China"
+    ]
+  },
+  {
+    "question": "Formula for rate during exponential decline",
+    "correct_answer": "Q = Qi * e^(-d * t)",
+    "answers": [
+      "Q = Qi * e^(-d * t)",
+      "Q = Qi / (1 + b * d * t)^(1/b)",
+      "Q = Qi * (1 - d * t)",
+      "Q = Qi / (1 + d * t)"
+    ]
+  },
+  {
+    "question": "Who invented the earliest form of ESP?",
+    "correct_answer": "Armais Arutunoff",
+    "answers": [
+      "Armais Arutunoff",
+      "Charles Wilson",
+      "Howard Hughes Sr.",
+      "William Schlumberger"
+    ]
+  },
+  {
+    "question": "To what state did Arutunoff relocate his ESP project?",
+    "correct_answer": "Oklahoma",
+    "answers": [
+      "Oklahoma",
+      "Texas",
+      "California",
+      "Kansas"
+    ]
+  },
+  {
+    "question": "Where was the first successful ESP implementation?",
+    "correct_answer": "Kansas",
+    "answers": [
+      "Kansas",
+      "Oklahoma",
+      "Texas",
+      "Louisiana"
+    ]
+  },
+  {
+    "question": "Who was the first woman SPE president?",
+    "correct_answer": "DeAnn Craig (1998)",
+    "answers": [
+      "DeAnn Craig (1998)",
+      "Jacques Bosio (1993)",
+      "Behrooz Fattahi (2010)",
+      "Alain LeBastie (2011)"
+    ]
+  },
+  {
+    "question": "How many countries are in SPE?",
+    "correct_answer": "About 145 countries (SPE serves members in ~145 countries)",
+    "answers": [
+      "About 145 countries (SPE serves members in ~145 countries)",
+      "123 countries",
+      "117 countries",
+      "132 countries"
+    ]
+  },
+  {
+    "question": "Deepest oil well and where",
+    "correct_answer": "Z-44 Chayvo well, Sakhalin (measured depth ~40,604 ft / 12,376 m)",
+    "answers": [
+      "Z-44 Chayvo well, Sakhalin (measured depth ~40,604 ft / 12,376 m)",
+      "Kola Superdeep Borehole, Russia (~40,000 ft)",
+      "Chayvo Z-44, Gulf of Mexico (~35,000 ft)",
+      "Kashagan-1, Kazakhstan (~38,000 ft)"
+    ]
+  },
+  {
+    "question": "What is the Way Ahead?",
+    "correct_answer": "A young professionals magazine published by SPE",
+    "answers": [
+      "A young professionals magazine published by SPE",
+      "A technical journal for reservoir simulation",
+      "An internal Shell training manual",
+      "A Baker Hughes equipment catalog"
+    ]
+  },
+  {
+    "question": "Highest award that you can win as an SPE member?",
+    "correct_answer": "Honorary Member Award",
+    "answers": [
+      "Honorary Member Award",
+      "Distinguished Service Medal",
+      "SPE Gold Medal",
+      "Lifetime Achievement Award"
+    ]
+  },
+  {
+    "question": "CEO of Royal Dutch Shell",
+    "correct_answer": "Wael Sawan",
+    "answers": [
+      "Wael Sawan",
+      "Ben van Beurden",
+      "Peter Voser",
+      "Murray Auchincloss"
+    ]
+  },
+  {
+    "question": "CEO of Royal Dutch Shell when it merged?",
+    "correct_answer": "Henri Deterding",
+    "answers": [
+      "Henri Deterding",
+      "Marcus Samuel",
+      "Sir William Fraser",
+      "John D. Archbold"
+    ]
+  },
+  {
+    "question": "What is the theoretical maximum porosity in cubic, rhombohedral, and hexagonal packing?",
+    "correct_answer": "Cubic ~47.6%, Rhombohedral ~26.0%, Hexagonal ~39.5%",
+    "answers": [
+      "Cubic ~47.6%, Rhombohedral ~26.0%, Hexagonal ~39.5%",
+      "Cubic ~40%, Rhombohedral ~30%, Hexagonal ~45%",
+      "Cubic ~50%, Rhombohedral ~26%, Hexagonal ~35%",
+      "Cubic ~47.6%, Rhombohedral ~39.5%, Hexagonal ~26.0%"
+    ]
+  },
+  {
+    "question": "Name the CEO of Chevron Corporation",
+    "correct_answer": "Michael Wirth",
+    "answers": [
+      "Michael Wirth",
+      "John Watson",
+      "Rex Tillerson",
+      "David O'Reilly"
+    ]
+  },
+  {
+    "question": "Name the CEO of ExxonMobil",
+    "correct_answer": "Darren Woods",
+    "answers": [
+      "Darren Woods",
+      "Rex Tillerson",
+      "Lee Raymond",
+      "John Watson"
+    ]
+  },
+  {
+    "question": "Whats the theoretical maximum mud weight?",
+    "correct_answer": "~19.23 ppg (context-dependent; referenced value from PDF)",
+    "answers": [
+      "~19.23 ppg",
+      "~18.5 ppg",
+      "~22 ppg",
+      "~16.8 ppg"
+    ]
+  },
+  {
+    "question": "What is the current rotary rig count in the US and Canada?",
+    "correct_answer": "Use latest Baker Hughes rotary rig counts (example: U.S. 547 rigs, Canada 193 rigs — Baker Hughes weekly report, 10 Oct 2025)",
+    "answers": [
+      "U.S. 547, Canada 193 (Baker Hughes, 10 Oct 2025)",
+      "U.S. 1,757, Canada 655",
+      "U.S. 418 oil rigs, Canada 120 gas rigs",
+      "U.S. 600, Canada 200"
+    ]
+  },
+  {
+    "question": "What is the initial GOR in a black oil reservoir?",
+    "correct_answer": "< 2000 scf/STB",
+    "answers": [
+      "< 2000 scf/STB",
+      "2000–5000 scf/STB",
+      "> 5000 scf/STB",
+      "< 500 scf/STB"
+    ]
+  },
+  {
+    "question": "Name 3 kill operations in a well control situation",
+    "correct_answer": "Driller's method, wait-and-weight, bullheading",
+    "answers": [
+      "Driller's method, wait-and-weight, bullheading",
+      "Circulate-and-shut, bullheading, snubbing",
+      "Kill-weight, reverse circulation, snubbing",
+      "Reverse mud, overbalance, underbalance"
+    ]
+  },
+  {
+    "question": "What does the term 'segregated flow' mean, and which factors determine this flow condition?",
+    "correct_answer": "Fluids separate according to density; flow is segregated if gravity gradients dominate (g Δρ >> dP/dx)",
+    "answers": [
+      "Fluids separate according to density; flow is segregated if gravity gradients dominate (g Δρ >> dP/dx)",
+      "Fluids mix uniformly due to turbulence; occurs when dP/dx >> g Δρ",
+      "A two-phase turbulent flow where viscosities dominate",
+      "Flow where capillary pressure dominates over gravity and viscous forces"
+    ]
+  },
+  {
+    "question": "What does the term 'diffuse flow' mean and which factors determine this flow condition?",
+    "correct_answer": "Fluids do not separate by density; diffuse flow occurs when dynamic pressure gradients dominate (dP/dx >> g Δρ), producing uniform vertical saturation",
+    "answers": [
+      "Fluids do not separate by density; diffuse flow occurs when dynamic pressure gradients dominate (dP/dx >> g Δρ)",
+      "Flow dominated by capillary forces causing segregation",
+      "Flow where gravity dominates and vertical segregation is complete",
+      "Two-phase immiscible flow controlled exclusively by permeability anisotropy"
+    ]
+  },
+  {
+    "question": "What is the Dietz method used for, and which assumptions are made for this method?",
+    "correct_answer": "Used for stable displacement in inclined systems; assumes vertical equilibrium, piston displacement, and negligible capillary pressure",
+    "answers": [
+      "Used for stable displacement in inclined systems; assumes vertical equilibrium, piston displacement, and negligible capillary pressure",
+      "Method for transient well testing; assumes radial flow and infinite-acting",
+      "Used for fines migration modeling; assumes homogeneous permeability",
+      "Method for surface facility separation; assumes ideal gas behavior"
+    ]
+  },
+  {
+    "question": "Define formation volume factor",
+    "correct_answer": "Reservoir volume / standard (surface) volume",
+    "answers": [
+      "Reservoir volume / standard (surface) volume",
+      "Surface volume / reservoir volume",
+      "Pore volume / grain volume",
+      "Oil in place / recoverable oil"
+    ]
+  },
+  {
+    "question": "Which two main types of boundary conditions are normally used to represent reservoir fluid production and injection?",
+    "correct_answer": "Bottomhole pressure specified and production rate specified",
+    "answers": [
+      "Bottomhole pressure specified and production rate specified",
+      "Temperature specified and composition specified",
+      "No-flow and fixed-saturation",
+      "Permeability-specified and porosity-specified"
+    ]
+  },
+  {
+    "question": "Which log provides a good measurement of the Hydrogen in the formation?",
+    "correct_answer": "Neutron log",
+    "answers": [
+      "Neutron log",
+      "Gamma-ray log",
+      "Resistivity log",
+      "Sonic log"
+    ]
+  },
+  {
+    "question": "What are the three elements used as the source of natural gamma rays in sedimentary rocks?",
+    "correct_answer": "Thorium, Uranium, and Potassium",
+    "answers": [
+      "Thorium, Uranium, and Potassium",
+      "Carbon, Oxygen, Silicon",
+      "Iron, Calcium, Magnesium",
+      "Lead, Radon, Argon"
+    ]
+  },
+  {
+    "question": "What is the physical law that gives the pressure drop in a fluid across a cylindrical tube? It assumes laminar, viscous, incompressible flow and length >> diameter.",
+    "correct_answer": "Hagen–Poiseuille equation: ΔP = 8 μ L Q / (π r^4)",
+    "answers": [
+      "Hagen–Poiseuille equation: ΔP = 8 μ L Q / (π r^4)",
+      "Darcy–Weisbach equation: ΔP = f (L/D) (ρ v^2 / 2)",
+      "Bernoulli's equation: P + 0.5ρv^2 + ρgh = constant",
+      "Navier–Stokes equation (simplified)"
+    ]
+  },
+  {
+    "question": "Define the tortuosity.",
+    "correct_answer": "The ratio between the length of the actual path a fluid takes and the straight-line distance between the end points",
+    "answers": [
+      "The ratio between the length of the actual path a fluid takes and the straight-line distance between the end points",
+      "Porosity divided by permeability",
+      "The square root of permeability",
+      "The ratio of pore volume to grain volume"
+    ]
+  },
+  {
+    "question": "Define kinematic viscosity",
+    "correct_answer": "Dynamic (apparent) viscosity divided by fluid density (ν = μ / ρ)",
+    "answers": [
+      "Dynamic (apparent) viscosity divided by fluid density (ν = μ / ρ)",
+      "Viscosity times density",
+      "Viscosity per unit length",
+      "Shear stress divided by shear rate"
+    ]
+  },
+  {
+    "question": "What is a top kill operation?",
+    "correct_answer": "Pumping heavy mud from the wellhead down to the bottom to force oil and gas back into the formation",
+    "answers": [
+      "Pumping heavy mud from the wellhead down to the bottom to force oil and gas back into the formation",
+      "Injecting light brine to displace heavy oil to the surface",
+      "Using explosives to seal the wellbore",
+      "Running a kill string to lift gas out of the well"
+    ]
+  },
+  {
+    "question": "If a water-wet rock saturated with oil is displaced in water, will it imbibe water into the smallest or largest pores displacing oil first?",
+    "correct_answer": "Smallest pores (wetting phase enters smallest pores first)",
+    "answers": [
+      "Smallest pores (wetting phase enters smallest pores first)",
+      "Largest pores",
+      "It will not imbibe water at all",
+      "All pores simultaneously"
+    ]
+  },
+  {
+    "question": "A fluid flow process in which the saturation of the wetting phase increases and the nonwetting phase saturation decreases is known as what?",
+    "correct_answer": "Imbibition",
+    "answers": [
+      "Imbibition",
+      "Drainage",
+      "Fingering",
+      "Percolation"
+    ]
+  },
+  {
+    "question": "Primary and waterflood oil recovery is affected by the wettability of the system. Which wettability will exhibit greater primary oil recovery?",
+    "correct_answer": "Water-wet",
+    "answers": [
+      "Water-wet",
+      "Oil-wet",
+      "Neutral-wet",
+      "Mixed-wet"
+    ]
+  },
+  {
+    "question": "In structural geology, what is the name for a fold that is convex up and has its oldest beds at its core?",
+    "correct_answer": "Anticline",
+    "answers": [
+      "Anticline",
+      "Syncline",
+      "Antiform",
+      "Monocline"
+    ]
+  },
+  {
+    "question": "What is the term for any geological fold that is convex up?",
+    "correct_answer": "Antiform",
+    "answers": [
+      "Antiform",
+      "Anticline",
+      "Synform",
+      "Syncline"
+    ]
+  },
+  {
+    "question": "In structural geology, what is the name of a downward-curving fold with layers that dip toward the center of the structure?",
+    "correct_answer": "Syncline",
+    "answers": [
+      "Syncline",
+      "Anticline",
+      "Synform",
+      "Monocline"
+    ]
+  },
+  {
+    "question": "What is the most common type of cement, in general use around the world because it is a basic ingredient of concrete, mortar, stucco and non-specialty grout?",
+    "correct_answer": "Portland cement",
+    "answers": [
+      "Portland cement",
+      "Hydraulic lime",
+      "Geopolymer cement",
+      "Roman cement"
+    ]
+  },
+  {
+    "question": "What are the 3 types of structural traps?",
+    "correct_answer": "Anticline, fault, salt dome",
+    "answers": [
+      "Anticline, fault, salt dome",
+      "Stratigraphic pinch-out, unconformity, reef",
+      "Channel, reef, karst",
+      "Fault, porosity pinch, diagenetic"
+    ]
+  },
+  {
+    "question": "What are the types of secondary porosity in carbonate rocks?",
+    "correct_answer": "Fenestral porosity (algal mats), shelter porosity, intracrystalline porosity, moldic porosity, vuggy/fracture porosity",
+    "answers": [
+      "Fenestral porosity (algal mats), shelter porosity, intracrystalline porosity, moldic porosity, vuggy/fracture porosity",
+      "Interstitial, primary intergranular, interparticle",
+      "Vuggy only",
+      "Karstic only"
+    ]
+  },
+  {
+    "question": "What assumptions do you have to make about irreducible saturations in the bundle of tubes model?",
+    "correct_answer": "Assumes no residual (irreducible) water or oil saturation (idealized for the model)",
+    "answers": [
+      "Assumes no residual (irreducible) water or oil saturation (idealized for the model)",
+      "Assumes fixed residual water but zero residual oil",
+      "Assumes residual saturations vary linearly with pore size",
+      "Assumes irreducible saturations depend only on permeability"
+    ]
+  },
+  {
+    "question": "What are the types of reserve groups?",
+    "correct_answer": "Proved developed, proved undeveloped, probable, possible",
+    "answers": [
+      "Proved developed, proved undeveloped, probable, possible",
+      "Proved, contingent, prospective, inferred",
+      "Proved, proven, unproven, speculative",
+      "Developed, undeveloped, indicated, inferred"
+    ]
+  }
+]

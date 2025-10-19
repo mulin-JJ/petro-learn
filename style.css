@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Playfair Display", serif;
+    background: linear-gradient(to right, rgb(15, 119, 156), rgb(106, 12, 207));
+    display: flex;
+    font-weight: 300;
+    font-style: italic;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.image {
+    height: 200px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+.question-container {
+    background: linear-gradient(to right, rgb(25, 57, 128), rgb(12, 102, 161));
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.question {
+    margin: 20px;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+.answer {
+    background: transparent;
+    width: 100%;
+    margin: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    color: white;
+    font-family: inherit;
+    font-size: 17px;
+}
+
+.answer:hover {
+    border: solid 1px blue;
+    border-radius: 7px;
+    background-color: blue;
+}
+
+.answer:active {
+    background-color: darkblue;
+    transform: scale(0.8);
+    transition: 0.5s all ease-in-out;
+}
+
