@@ -6,29 +6,16 @@
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
     <link rel="stylesheet" href="style.css">
     <title>Petrobowl</title>
+    <link rel="icon" href="images/spe_vert_blue.svg">
 </head>
 <body>
     <img class="image" src="images/SPEKUSC.jpeg">
-    <h1>Are you a Petroleum Engineer?</h1>
-    <h2 class="score">Score : 0</h2>
-    <div class="question-container">
-        <p class="question">
-            Which oil company has the highest oil production?
-        </p>
-        <button class="answer">
-            Saudi Aramco
-        </button>
-        <button class="answer">
-            ExxonMobil
-        </button>
-        <button class="answer">
-            Rosneft
-        </button>
-        <button class="answer">
-            PetroChina
-        </button>
+    <h1>How knowledgeable are you?</h1>
+    <h2 class="score">Score : <span class="score-value">0</span>/10</h2>
+    <div class="question-container js-question-container">
     </div>
 
+    <script src="data/questions.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
