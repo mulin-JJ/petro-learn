@@ -103,3 +103,9 @@ body {
         flex-direction: row;
     }
 }
+
+@media (max-width: 300px) {
+    .body {
+        width: 100vw;
+    }
+}
