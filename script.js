@@ -40,18 +40,20 @@ function displayQuiz(quiz, currentIndex) {
         <p class="question"> ${currentIndex + 1}. 
             ${quiz.question}
         </p>
-        <button class="answer">
-            ${quiz.answers[0]}
-        </button>
-        <button class="answer">
-            ${quiz.answers[1]}
-        </button>
-        <button class="answer">
-            ${quiz.answers[2]}
-        </button>
-        <button class="answer">
-            ${quiz.answers[3]}
-        </button>
+        <div class="answer-container">
+            <button class="answer">
+                ${quiz.answers[0]}
+            </button>
+            <button class="answer">
+                ${quiz.answers[1]}
+            </button>
+            <button class="answer">
+                ${quiz.answers[2]}
+            </button>
+            <button class="answer">
+                ${quiz.answers[3]}
+            </button>
+        </div>
 `
     document.querySelector('.js-question-container').innerHTML = quizHTML
 }
@@ -193,10 +195,6 @@ function gameOver() {
         </a>
     `
     document.querySelector('.js-question-container').innerHTML = finalHTML
-
-    // document.querySelector('.answer').addEventListener('click', () => {
-    //     location.reload()
-    // })
 }
 
 playGame(quizzes)

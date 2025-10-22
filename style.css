@@ -16,13 +16,17 @@ body {
     height: 100vh;
     color: white;
     margin: 0;
-    padding: 20px;
+    /* padding: 20px; */
+    padding-top: 0px;
     overflow: hidden;
+    min-width: 500px;
+    min-height: 500px;
 }
 
 .image {
-    height: 200px;
-    margin-bottom: 50px;
+    height: 150px;
+    /* margin-top: 10px; */
+    margin-bottom: 150px;
     border-radius: 50%;
 }
 
@@ -37,6 +41,8 @@ body {
 }
 
 .question {
+    display: flex;
+    justify-content: center;
     margin: 20px;
     margin-bottom: 30px;
     font-weight: 600;
@@ -69,3 +75,31 @@ body {
     transition: 0.5s all ease-in-out;
 }
 
+@media (max-height: 900px) {
+    body {
+        display: flex;
+        padding: 10px;
+        height: 90vh;
+    }
+
+    .image {
+        width: 100px;
+        margin-bottom: 0px;
+    }
+
+    .question-container {
+        margin-bottom: 0px;
+        padding: 5px;
+    }
+}
+
+@media (max-height: 600px) {
+    .image {
+        width: 50px;
+    }
+
+    .answer-container {
+        display: flex;
+        flex-direction: row;
+    }
+}
