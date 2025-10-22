@@ -45,6 +45,14 @@ body {
     font-weight: 600;
 }
 
+h1 {
+    margin: 4px;
+}
+
+.score {
+    margin-bottom: 4px;
+}
+
 .answer {
     background: transparent;
     width: 100%;
@@ -79,6 +87,12 @@ body {
         padding: 10px;
         height: 100vh;
         margin-bottom: 50px;
+        overflow: hidden;
+    }
+
+    .answer {
+        padding: 5px;
+        margin: 10px;
     }
 
     .image {
